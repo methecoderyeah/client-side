@@ -15,16 +15,14 @@ This runs in the background as a Windows Service - you won't see a window or ico
 
 You need Python and some packages. Computers in the computer lab already hae python, but not the packages.
 
-#### Option A: Automatic Setup (Easiest)
-1. Open Command Prompt as Administrator:
-   - Press `Win + R`
-   - Type: `cmd`
-   - Press `Ctrl + Shift + Enter` (runs as admin)
+### Option A: Using the .exe
 
-2. Copy and paste this entire command:
-```
-pip install pywin32 cryptography pillow numpy psutil pyautogui && python -m Scripts/pywin32_postinstall -install
-```
+1. Extract the ClientSideMonitor_Release folder
+2. Open socket.txt in Notepad and add a port number (example: 5000)
+3. Open PowerShell as Administrator
+4. Navigate to the folder: `cd C:\path\to\ClientSideMonitor_Release`
+5. Run: `python install_service.py --install`
+6. Run: `python install_service.py --start`
 
 3. Wait for it to finish
 
