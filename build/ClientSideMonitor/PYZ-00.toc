@@ -1,0 +1,2307 @@
+('C:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+ 'year\\screen freezer\\client side\\build\\ClientSideMonitor\\PYZ-00.pyz',
+ [('PIL',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BdfFontFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\BdfFontFile.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ContainerIO',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ContainerIO.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FontFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\FontFile.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GdImageFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\GdImageFile.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageEnhance',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageEnhance.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageMorph',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageMorph.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageStat',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageStat.py',
+   'PYMODULE'),
+  ('PIL.ImageText',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageText.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageTransform',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageTransform.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PSDraw',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PSDraw.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcfFontFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PcfFontFile.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TarIO',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\TarIO.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WalImageFile',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\WalImageFile.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.__main__',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\__main__.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._tkinter_finder',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\_tkinter_finder.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.report',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\PIL\\report.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\minya\\anaconda03\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_colorize', 'C:\\Users\\minya\\anaconda03\\Lib\\_colorize.py', 'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_ios_support',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_ios_support.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc', 'C:\\Users\\minya\\anaconda03\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_strptime', 'C:\\Users\\minya\\anaconda03\\Lib\\_strptime.py', 'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\minya\\anaconda03\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse', 'C:\\Users\\minya\\anaconda03\\Lib\\argparse.py', 'PYMODULE'),
+  ('ast', 'C:\\Users\\minya\\anaconda03\\Lib\\ast.py', 'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\minya\\anaconda03\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64', 'C:\\Users\\minya\\anaconda03\\Lib\\base64.py', 'PYMODULE'),
+  ('bdb', 'C:\\Users\\minya\\anaconda03\\Lib\\bdb.py', 'PYMODULE'),
+  ('bisect', 'C:\\Users\\minya\\anaconda03\\Lib\\bisect.py', 'PYMODULE'),
+  ('bz2', 'C:\\Users\\minya\\anaconda03\\Lib\\bz2.py', 'PYMODULE'),
+  ('calendar', 'C:\\Users\\minya\\anaconda03\\Lib\\calendar.py', 'PYMODULE'),
+  ('cmd', 'C:\\Users\\minya\\anaconda03\\Lib\\cmd.py', 'PYMODULE'),
+  ('code', 'C:\\Users\\minya\\anaconda03\\Lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Users\\minya\\anaconda03\\Lib\\codeop.py', 'PYMODULE'),
+  ('colorsys', 'C:\\Users\\minya\\anaconda03\\Lib\\colorsys.py', 'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\minya\\anaconda03\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\minya\\anaconda03\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\minya\\anaconda03\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\minya\\anaconda03\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\minya\\anaconda03\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\minya\\anaconda03\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\minya\\anaconda03\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy', 'C:\\Users\\minya\\anaconda03\\Lib\\copy.py', 'PYMODULE'),
+  ('cryptography',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.fernet',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\fernet.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.asn1',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\asn1\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.asn1.asn1',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\asn1\\asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.algorithms',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.modes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._modes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.mldsa',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\mldsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.mlkem',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\mlkem.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.cmac',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hmac',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hpke',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hpke.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.argon2',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\argon2.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.concatkdf',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\concatkdf.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.hkdf',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\hkdf.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.kbkdf',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\kbkdf.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.pbkdf2',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\pbkdf2.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.scrypt',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\scrypt.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.x963kdf',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\x963kdf.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.keywrap',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\keywrap.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.padding',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.poly1305',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs12',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs12.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs7',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs7.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.twofactor',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\twofactor\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.twofactor.hotp',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\twofactor\\hotp.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.twofactor.totp',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\twofactor\\totp.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.verification',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\cryptography\\x509\\verification.py',
+   'PYMODULE'),
+  ('csv', 'C:\\Users\\minya\\anaconda03\\Lib\\csv.py', 'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\minya\\anaconda03\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\minya\\anaconda03\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime', 'C:\\Users\\minya\\anaconda03\\Lib\\datetime.py', 'PYMODULE'),
+  ('decimal', 'C:\\Users\\minya\\anaconda03\\Lib\\decimal.py', 'PYMODULE'),
+  ('difflib', 'C:\\Users\\minya\\anaconda03\\Lib\\difflib.py', 'PYMODULE'),
+  ('dis', 'C:\\Users\\minya\\anaconda03\\Lib\\dis.py', 'PYMODULE'),
+  ('doctest', 'C:\\Users\\minya\\anaconda03\\Lib\\doctest.py', 'PYMODULE'),
+  ('email',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\minya\\anaconda03\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fileinput', 'C:\\Users\\minya\\anaconda03\\Lib\\fileinput.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\Users\\minya\\anaconda03\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('fractions', 'C:\\Users\\minya\\anaconda03\\Lib\\fractions.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Users\\minya\\anaconda03\\Lib\\ftplib.py', 'PYMODULE'),
+  ('getopt', 'C:\\Users\\minya\\anaconda03\\Lib\\getopt.py', 'PYMODULE'),
+  ('getpass', 'C:\\Users\\minya\\anaconda03\\Lib\\getpass.py', 'PYMODULE'),
+  ('gettext', 'C:\\Users\\minya\\anaconda03\\Lib\\gettext.py', 'PYMODULE'),
+  ('glob', 'C:\\Users\\minya\\anaconda03\\Lib\\glob.py', 'PYMODULE'),
+  ('gzip', 'C:\\Users\\minya\\anaconda03\\Lib\\gzip.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Users\\minya\\anaconda03\\Lib\\hashlib.py', 'PYMODULE'),
+  ('hmac', 'C:\\Users\\minya\\anaconda03\\Lib\\hmac.py', 'PYMODULE'),
+  ('html', 'C:\\Users\\minya\\anaconda03\\Lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\minya\\anaconda03\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http', 'C:\\Users\\minya\\anaconda03\\Lib\\http\\__init__.py', 'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\minya\\anaconda03\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\minya\\anaconda03\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\minya\\anaconda03\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\minya\\anaconda03\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect', 'C:\\Users\\minya\\anaconda03\\Lib\\inspect.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Users\\minya\\anaconda03\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('json', 'C:\\Users\\minya\\anaconda03\\Lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\minya\\anaconda03\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\minya\\anaconda03\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\minya\\anaconda03\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\minya\\anaconda03\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma', 'C:\\Users\\minya\\anaconda03\\Lib\\lzma.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Users\\minya\\anaconda03\\Lib\\mimetypes.py', 'PYMODULE'),
+  ('mouseinfo',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\minya\\anaconda03\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc', 'C:\\Users\\minya\\anaconda03\\Lib\\netrc.py', 'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\minya\\anaconda03\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers', 'C:\\Users\\minya\\anaconda03\\Lib\\numbers.py', 'PYMODULE'),
+  ('numpy',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode', 'C:\\Users\\minya\\anaconda03\\Lib\\opcode.py', 'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\minya\\anaconda03\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\minya\\anaconda03\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\minya\\anaconda03\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pdb', 'C:\\Users\\minya\\anaconda03\\Lib\\pdb.py', 'PYMODULE'),
+  ('pickle', 'C:\\Users\\minya\\anaconda03\\Lib\\pickle.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\Users\\minya\\anaconda03\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('platform', 'C:\\Users\\minya\\anaconda03\\Lib\\platform.py', 'PYMODULE'),
+  ('pprint', 'C:\\Users\\minya\\anaconda03\\Lib\\pprint.py', 'PYMODULE'),
+  ('psutil',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._ntuples',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\psutil\\_ntuples.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\minya\\anaconda03\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pydoc', 'C:\\Users\\minya\\anaconda03\\Lib\\pydoc.py', 'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\minya\\anaconda03\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\minya\\anaconda03\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyrect',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pytweening',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Users\\minya\\anaconda03\\Lib\\queue.py', 'PYMODULE'),
+  ('quopri', 'C:\\Users\\minya\\anaconda03\\Lib\\quopri.py', 'PYMODULE'),
+  ('random', 'C:\\Users\\minya\\anaconda03\\Lib\\random.py', 'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\minya\\anaconda03\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy', 'C:\\Users\\minya\\anaconda03\\Lib\\runpy.py', 'PYMODULE'),
+  ('secrets', 'C:\\Users\\minya\\anaconda03\\Lib\\secrets.py', 'PYMODULE'),
+  ('selectors', 'C:\\Users\\minya\\anaconda03\\Lib\\selectors.py', 'PYMODULE'),
+  ('shlex', 'C:\\Users\\minya\\anaconda03\\Lib\\shlex.py', 'PYMODULE'),
+  ('shutil', 'C:\\Users\\minya\\anaconda03\\Lib\\shutil.py', 'PYMODULE'),
+  ('signal', 'C:\\Users\\minya\\anaconda03\\Lib\\signal.py', 'PYMODULE'),
+  ('socket', 'C:\\Users\\minya\\anaconda03\\Lib\\socket.py', 'PYMODULE'),
+  ('socket_commands',
+   'C:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client side\\socket_commands.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\minya\\anaconda03\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl', 'C:\\Users\\minya\\anaconda03\\Lib\\ssl.py', 'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\minya\\anaconda03\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string', 'C:\\Users\\minya\\anaconda03\\Lib\\string.py', 'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\minya\\anaconda03\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\minya\\anaconda03\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\minya\\anaconda03\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile', 'C:\\Users\\minya\\anaconda03\\Lib\\tarfile.py', 'PYMODULE'),
+  ('tempfile', 'C:\\Users\\minya\\anaconda03\\Lib\\tempfile.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Users\\minya\\anaconda03\\Lib\\textwrap.py', 'PYMODULE'),
+  ('threading', 'C:\\Users\\minya\\anaconda03\\Lib\\threading.py', 'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\minya\\anaconda03\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\minya\\anaconda03\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\minya\\anaconda03\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token', 'C:\\Users\\minya\\anaconda03\\Lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Users\\minya\\anaconda03\\Lib\\tokenize.py', 'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\minya\\anaconda03\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty', 'C:\\Users\\minya\\anaconda03\\Lib\\tty.py', 'PYMODULE'),
+  ('typing', 'C:\\Users\\minya\\anaconda03\\Lib\\typing.py', 'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\minya\\anaconda03\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\minya\\anaconda03\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\minya\\anaconda03\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\minya\\anaconda03\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\minya\\anaconda03\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\minya\\anaconda03\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\minya\\anaconda03\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32evtlogutil',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\win32\\lib\\win32evtlogutil.py',
+   'PYMODULE'),
+  ('win32serviceutil',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\win32\\lib\\win32serviceutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\Users\\minya\\OneDrive - School District 35\\2025-2026 school '
+   'year\\screen freezer\\client '
+   'side\\.venv\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('xml', 'C:\\Users\\minya\\anaconda03\\Lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\minya\\anaconda03\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\minya\\anaconda03\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\minya\\anaconda03\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\minya\\anaconda03\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport', 'C:\\Users\\minya\\anaconda03\\Lib\\zipimport.py', 'PYMODULE')])
