@@ -4,28 +4,28 @@ import threading
 
 class SocketCommands:
     def __init__(self, user):
-        self.port = self.find_port()
-        self.reset_port = 2359
-        self.messenger = self.Messenger(self)
-        self.receiver = self.Receiver(self)
         self.user_ = user
 
-    def find_port(self):
-        with open("socket.txt", "r") as file:
-            return int(file.read())
+        # Ask user for port only
+        self.port = int(input("Enter main port number: "))
+
+        self.reset_port = 2359
+
+        self.messenger = self.Messenger(self)
+        self.receiver = self.Receiver(self)
 
     class Messenger:
         def __init__(self, parent):
             self.parent = parent
 
-        def send_message(self, message, port=None):
+        def send_message(self, message_dict, port=None):
             if port is None:
                 port = self.parent.port
 
             try:
                 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
                 sock.connect(("127.0.0.1", port))
-                sock.sendall(message.encode())
+                sock.sendall(json.dumps(message_dict).encode())
                 sock.close()
             except:
                 pass
@@ -37,7 +37,7 @@ class SocketCommands:
                 "Type": "Image",
                 "Image": image
             }
-            self.send_message(json.dumps(data))
+            self.send_message(data)
 
         def processes(self, name, processes):
             data = {
@@ -46,7 +46,15 @@ class SocketCommands:
                 "Type": "Processes",
                 "Processes": processes
             }
-            self.send_message(json.dumps(data))
+            self.send_message(data)
+
+        def port_reset(self):
+            data = {
+                "Sender": "ScreenControl",
+                "Target": "ALL",
+                "Command": "Port Reset"
+            }
+            self.send_message(data, port=self.parent.reset_port)
 
     class Receiver:
         def __init__(self, parent):
@@ -106,19 +114,17 @@ class SocketCommands:
                     message.get("Sender") == "ScreenControl"
                     and message.get("Command") == "Port Reset"
                 ):
-                    port_reset()
+                    port_reset(message.get("Password"), message.get("Port"))
 
                 conn.close()
 
         def thread(self, freeze, images, processes, port_reset):
-            # Main command port
             threading.Thread(
                 target=self.tcp_listener_main,
                 args=(self.parent.port, freeze, images, processes),
                 daemon=True
             ).start()
 
-            # Special reset-only port
             threading.Thread(
                 target=self.tcp_listener_reset,
                 args=(self.parent.reset_port, port_reset),

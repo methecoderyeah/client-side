@@ -9,6 +9,10 @@ import os
 import pyautogui
 import threading
 import time
+from cryptography.fernet import Fernet
+
+cipher = Fernet("uaXbNuTAUXK5o191j94JxiWpCgmBCD3zaft-Ooc2zCg=")
+
 
 from overlay import FreezeOverlay, root
 
@@ -106,7 +110,11 @@ def processes():
 
 
 def port_reset(password, port):
-    pass
+    password = cipher.decrypt(password).decode()
+    if password == "ADMIN_RSegG4sp5BHjDv6KQJFEMmah9Vt3wZ":
+        with open("./socket.txt", "w") as file:
+            file.write(port)
+
 
 
 username = win32api.GetUserName()
