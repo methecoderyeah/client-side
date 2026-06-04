@@ -3,10 +3,12 @@ import json
 import threading
 
 class SocketCommands:
-    def __init__(self):
-        self.socket = self.find_port()
+    def __init__(self, user):
+        self.port = self.find_port()
+        self.reset_port = 2359
         self.messenger = self.Messenger(self)
         self.receiver = self.Receiver(self)
+        self.user_ = user
 
     def find_port(self):
         with open("socket.txt", "r") as file:
@@ -16,11 +18,17 @@ class SocketCommands:
         def __init__(self, parent):
             self.parent = parent
 
-        def send_message(self, message):
-            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-            sock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
-            sock.sendto(message.encode(), ("<broadcast>", self.parent.socket))
-            sock.close()
+        def send_message(self, message, port=None):
+            if port is None:
+                port = self.parent.port
+
+            try:
+                sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                sock.connect(("127.0.0.1", port))
+                sock.sendall(message.encode())
+                sock.close()
+            except:
+                pass
 
         def send_image(self, name, image):
             data = {
@@ -44,25 +52,29 @@ class SocketCommands:
         def __init__(self, parent):
             self.parent = parent
 
-        def udp_listener(self, port, freeze, images, processes):
-            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-            sock.bind(("", port))
+        def tcp_listener_main(self, port, freeze, images, processes):
+            server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            server.bind(("", port))
+            server.listen(5)
 
-            print("Listening for UDP broadcasts on port", port)
+            print(f"Listening for TCP commands on main port {port}")
 
             while True:
-                data, addr = sock.recvfrom(1024)
+                conn, addr = server.accept()
+                data = conn.recv(65536)
+
                 try:
                     message = json.loads(data.decode())
                 except:
                     print("Invalid JSON:", data)
+                    conn.close()
                     continue
 
-                if message.get("Sender") == "ScreenFreezer":
+                if message.get("Sender") == "ScreenControl":
                     target = message.get("Target")
                     command = message.get("Command")
 
-                    if target == "ALL":
+                    if target == "ALL" or target == self.parent.user_:
                         if command == "Freeze":
                             freeze()
                         elif command == "Images":
@@ -70,10 +82,45 @@ class SocketCommands:
                         elif command == "Processes":
                             processes()
 
-        def thread(self, freeze, images, processes):
-            listener_thread = threading.Thread(
-                target=self.udp_listener,
-                args=(self.parent.socket, freeze, images, processes),
+                conn.close()
+
+        def tcp_listener_reset(self, port, port_reset):
+            server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            server.bind(("", port))
+            server.listen(5)
+
+            print(f"Listening for TCP port resets on port {port}")
+
+            while True:
+                conn, addr = server.accept()
+                data = conn.recv(65536)
+
+                try:
+                    message = json.loads(data.decode())
+                except:
+                    print("Invalid JSON:", data)
+                    conn.close()
+                    continue
+
+                if (
+                    message.get("Sender") == "ScreenControl"
+                    and message.get("Command") == "Port Reset"
+                ):
+                    port_reset()
+
+                conn.close()
+
+        def thread(self, freeze, images, processes, port_reset):
+            # Main command port
+            threading.Thread(
+                target=self.tcp_listener_main,
+                args=(self.parent.port, freeze, images, processes),
                 daemon=True
-            )
-            listener_thread.start()
+            ).start()
+
+            # Special reset-only port
+            threading.Thread(
+                target=self.tcp_listener_reset,
+                args=(self.parent.reset_port, port_reset),
+                daemon=True
+            ).start()
