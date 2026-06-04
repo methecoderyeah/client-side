@@ -1,28 +1,19 @@
-# 🎓 How to Use Client-Side Monitor Service
-
-**For Non-Programmers**
-
-This guide will walk you through everything you need to do, step-by-step.
-
----
-
-## 📋 What This Does
-
-This service runs **silently in the background** on your computer and:
-- 📸 Takes screenshots when asked
-- 👀 Monitors open applications
-- 🔒 Shows a "freeze" message when activated
-- 🤐 Sends information to a monitoring server
-
-**Important**: This runs invisibly as a Windows Service - you won't see a window or icon.
+# How to Use Client-Side Monitor Service
+## What This Does:
+   This service runs silently in the background on your computer and:
+   - Takes screenshots when asked
+   - Monitors open applications
+   - Shows a "freeze" message when activated
+   - Sends information to a monitoring server
+This runs in the background as a Windows Service - you won't see a window or icon.
 
 ---
 
-## 🚀 Installation Steps
+## Installation Steps (Manual)
 
 ### Step 1: Install Required Software
 
-You need Python and some packages. Here's how:
+You need Python and some packages. Computers in the computer lab already hae python, but not the packages.
 
 #### Option A: Automatic Setup (Easiest)
 1. Open Command Prompt as Administrator:
@@ -35,7 +26,7 @@ You need Python and some packages. Here's how:
 pip install pywin32 cryptography pillow numpy psutil pyautogui && python -m Scripts/pywin32_postinstall -install
 ```
 
-3. Wait for it to finish (you'll see lots of text)
+3. Wait for it to finish
 
 #### Option B: Manual Setup
 If Option A doesn't work:
@@ -118,13 +109,9 @@ Now tell Windows to install the service:
    ✓ Service 'ClientSideMonitor' started
    ```
 
-**That's it!** The service is now running in the background.
-
 ---
 
-## 🔄 Common Commands
-
-You'll use these commands often. Always open Command Prompt as Administrator first!
+## Common Commands
 
 ### Check if it's running:
 ```
@@ -148,29 +135,7 @@ type logs\service.log
 
 ---
 
-## 📖 Understanding the Service
-
-### What's Running?
-The service does these things on a loop:
-- **Listens** for commands from the server (every fraction of a second)
-- **Waits** for instructions to freeze, capture images, or check running apps
-- **Records everything** in `logs/service.log`
-
-### Where are the logs?
-Look in the `logs` folder:
-- **logs/service.log** - Records of everything the service did
-- You can open this with Notepad to see what happened
-
-### Freeze Feature
-When a "freeze" command is sent:
-1. A window appears saying "eyes on the teacher, not this screen"
-2. Your mouse moves to the corner automatically
-3. This lasts for 5 seconds
-4. Then it goes away
-
----
-
-## 🛑 Uninstalling
+## Uninstalling
 
 If you want to remove the service completely:
 
@@ -189,14 +154,14 @@ If you want to remove the service completely:
 
 ---
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
 ### "Python is not recognized"
 - **Problem**: Command Prompt doesn't know what Python is
 - **Solution**: 
   1. Uninstall Python
   2. Reinstall it from python.org
-  3. **CHECK THE BOX** that says "Add Python to PATH" during installation
+  3. Check the box that says "Add Python to PATH" during installation
   4. Restart your computer
   5. Try again
 
@@ -222,44 +187,3 @@ If you want to remove the service completely:
   2. Change the port to a different number (try `5001` or `5002`)
   3. Stop and restart the service
 
----
-
-## 🔐 Security Notes
-
-⚠️ **Important**: Only install this on a computer you own or have permission to monitor!
-
-- This service requires **Administrator privileges**
-- It can access information about running programs
-- It can take screenshots
-- It runs automatically on startup
-
----
-
-## 📞 Getting Help
-
-If something goes wrong:
-
-1. **Check the logs**: `type logs\service.log`
-2. **Try restarting**: `python install_service.py --stop` then `python install_service.py --start`
-3. **Try rebooting**: Restart your computer
-4. **Uninstall and reinstall**: Follow the uninstall steps, then install again
-
----
-
-## ✅ Verification Checklist
-
-After installation, verify everything works:
-
-- [ ] I installed Python with PATH enabled
-- [ ] I ran the pip install command (or all 6 commands)
-- [ ] I ran `python -m Scripts/pywin32_postinstall -install`
-- [ ] I created/edited `socket.txt` with a port number
-- [ ] I ran `python install_service.py --install`
-- [ ] I ran `python install_service.py --start`
-- [ ] Command prompt shows ✓ success messages
-
-If all boxes are checked, you're ready to go! ✅
-
----
-
-**Last Updated**: 2026-06-04
