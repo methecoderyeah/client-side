@@ -6,6 +6,7 @@ Replaces tkinter with native Windows win32 messaging and notifications.
 import win32serviceutil
 import win32service
 import win32event
+import win32con
 import servicemanager
 import socket
 import sys
@@ -46,6 +47,7 @@ freeze_active = False
 freeze_end_time = 0
 overlay_hwnd = None
 commander = None
+username = None
 
 
 def get_pid_from_hwnd(hwnd):
@@ -76,38 +78,24 @@ def get_open_apps():
 
 
 def show_freeze_notification():
-    """Display freeze notification using Windows UI."""
+    """Display freeze notification using Windows UI in a separate thread."""
     global overlay_hwnd
-    try:
-        # Use win32 to show a message box or create a borderless window
-        # This is a native replacement for tkinter overlay
-        overlay_hwnd = ctypes.windll.user32.MessageBoxA(
-            0,
-            b"eyes on the teacher, not this screen",
-            b"FROZEN - Monitoring Active",
-            0x00000010 | 0x00001000  # MB_ICONHAND | MB_SYSTEMMODAL
-        )
-        logger.info("Freeze notification displayed")
-    except Exception as e:
-        logger.error(f"Error showing notification: {e}")
-
-
-def create_freeze_window():
-    """Create a native Windows borderless freeze window (alternative to MessageBox)."""
-    global overlay_hwnd
-    try:
-        # Register window class
-        class_name = "FreezeOverlay"
-        wnd_class = ctypes.wintypes.WNDCLASS()
-        wnd_class.lpszClassName = class_name
-        wnd_class.lpfnWndProc = {
-            win32con.WM_DESTROY: lambda hwnd, msg, wparam, lparam: ctypes.windll.user32.PostQuitMessage(0)
-        }
-        
-        # Simplified: Use a native window with win32 API
-        logger.info("Creating freeze overlay window")
-    except Exception as e:
-        logger.error(f"Error creating freeze window: {e}")
+    def show_msgbox():
+        try:
+            # Show non-blocking message box in separate thread
+            # MB_ICONHAND = system modal, MB_SYSTEMMODAL = stays on top
+            ctypes.windll.user32.MessageBoxA(
+                0,
+                b"eyes on the teacher, not this screen",
+                b"FROZEN - Monitoring Active",
+                0x00000010 | 0x00001000  # MB_ICONHAND | MB_SYSTEMMODAL
+            )
+            logger.info("Freeze notification displayed")
+        except Exception as e:
+            logger.error(f"Error showing notification: {e}")
+    
+    # Run in thread so service doesn't block
+    threading.Thread(target=show_msgbox, daemon=True).start()
 
 
 def freeze():
@@ -122,13 +110,8 @@ def freeze():
 
 def unfreeze():
     """Deactivate freeze mode."""
-    global freeze_active, overlay_hwnd
+    global freeze_active
     freeze_active = False
-    if overlay_hwnd:
-        try:
-            ctypes.windll.user32.SendMessageA(overlay_hwnd, win32con.WM_CLOSE, 0, 0)
-        except:
-            pass
     logger.info("Freeze deactivated")
 
 
@@ -178,10 +161,12 @@ def freeze_watchdog():
 def send_images():
     """Capture and send screen images."""
     try:
-        img = ImageGrab.grab()
-        rgb = np.array(img)
-        commander.messenger.send_image(username, rgb)
-        logger.info("Image sent")
+        global commander, username
+        if commander and username:
+            img = ImageGrab.grab()
+            rgb = np.array(img)
+            commander.messenger.send_image(username, rgb)
+            logger.info("Image sent")
     except Exception as e:
         logger.error(f"Error sending images: {e}")
 
@@ -189,13 +174,15 @@ def send_images():
 def processes():
     """Get and send process list."""
     try:
-        apps = get_open_apps()
-        commander.messenger.processes(username, apps)
-        logger.info(f"Processes sent: {len(apps)} apps")
-        return apps
+        global commander, username
+        if commander and username:
+            apps = get_open_apps()
+            commander.messenger.processes(username, apps)
+            logger.info(f"Processes sent: {len(apps)} apps")
+            return apps
     except Exception as e:
         logger.error(f"Error getting processes: {e}")
-        return []
+    return []
 
 
 def port_reset(password, port):
@@ -244,6 +231,30 @@ class ClientService(win32serviceutil.ServiceFramework):
             username = win32api.GetUserName()
             logger.info(f"Service running as user: {username}")
             
+            # Read port from config file to avoid input() prompt in service
+            port = None
+            socket_txt = SERVICE_DIR / "socket.txt"
+            if socket_txt.exists():
+                try:
+                    port = int(socket_txt.read_text().strip())
+                    logger.info(f"Loaded port from socket.txt: {port}")
+                except:
+                    logger.warning("Failed to read port from socket.txt")
+            
+            if port is None:
+                logger.error("No port configured. Create socket.txt with port number.")
+                return
+            
+            # Temporarily patch socket_commands to use configured port
+            original_init = socket_commands.SocketCommands.__init__
+            def patched_init(self_inner, user):
+                self_inner.user_ = user
+                self_inner.port = port
+                self_inner.reset_port = 2359
+                self_inner.messenger = socket_commands.SocketCommands.Messenger(self_inner)
+                self_inner.receiver = socket_commands.SocketCommands.Receiver(self_inner)
+            socket_commands.SocketCommands.__init__ = patched_init
+            
             # Initialize socket commander
             commander = socket_commands.SocketCommands(username)
             
@@ -258,6 +269,8 @@ class ClientService(win32serviceutil.ServiceFramework):
                 processes=processes,
                 port_reset=port_reset
             )
+            
+            logger.info("Service fully initialized and running")
             
             # Service event loop
             while self.is_alive:
